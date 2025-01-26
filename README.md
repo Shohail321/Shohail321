@@ -1,4 +1,4 @@
-### Hi there 👋, Hii, I'm Shohail
+### Hi there 👋, I'm Shohail
 ![](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 
 I'm a passionate learner currently diving deep into web development. With a solid foundation in Computer Science and Engineering (B.E.) and a master's degree in Cybersecurity from Gannon University, I combine my technical expertise with a keen interest in creating responsive, secure, and user-friendly web applications.
