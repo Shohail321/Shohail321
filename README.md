@@ -8,7 +8,7 @@ Enhancing my skills in HTML, CSS, JavaScript, and modern frameworks.
 Building projects to showcase my knowledge in responsive web design and secure coding practices.<br>
 💡 Goals:
 To become a high-level expert in web development.
-To create applications that prioritize both functionality and security.
+To create applications that prioritize both functionality and security.<br>
 📫 Let's Connect:
 Feel free to explore my repositories and connect with me for collaborations or discussions!
 
