@@ -5,7 +5,7 @@ I'm a passionate learner currently diving deep into web development. With a soli
 
 🌱 What I'm Working On:
 Enhancing my skills in HTML, CSS, JavaScript, and modern frameworks.
-Building projects to showcase my knowledge in responsive web design and secure coding practices.
+Building projects to showcase my knowledge in responsive web design and secure coding practices.<br>
 💡 Goals:
 To become a high-level expert in web development.
 To create applications that prioritize both functionality and security.
